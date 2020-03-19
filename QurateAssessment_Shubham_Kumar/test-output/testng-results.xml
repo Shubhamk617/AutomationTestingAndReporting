@@ -1,0 +1,1201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="26" passed="26" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Site Opened]]>
+    </line>
+    <line>
+      <![CDATA[<p><font color="green">Method drivers.TestShoppingSite_openHomepage   PASSED</p>]]>
+    </line>
+    <line>
+      <![CDATA[Cart Shows Empty]]>
+    </line>
+    <line>
+      <![CDATA[<p><font color="green">Method drivers.TestShoppingSite_verifyEmptyCart   PASSED</p>]]>
+    </line>
+    <line>
+      <![CDATA[<p><font color="green">Method drivers.TestShoppingSite_verifyMenuLinks   PASSED</p>]]>
+    </line>
+    <line>
+      <![CDATA[Homepage Logo Is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[<p><font color="green">Method drivers.TestShoppingSite_verifyPageLogo   PASSED</p>]]>
+    </line>
+    <line>
+      <![CDATA[Phonenumbers are matching]]>
+    </line>
+    <line>
+      <![CDATA[<p><font color="green">Method drivers.TestShoppingSite_verifyPhoneNumber   PASSED</p>]]>
+    </line>
+    <line>
+      <![CDATA[PlaceHolder text Contains Search]]>
+    </line>
+    <line>
+      <![CDATA[<p><font color="green">Method drivers.TestShoppingSite_verifyPlaceHolderText   PASSED</p>]]>
+    </line>
+    <line>
+      <![CDATA[SignIn hoverText are same as required]]>
+    </line>
+    <line>
+      <![CDATA[<p><font color="green">Method drivers.TestShoppingSite_verifySignInHover   PASSED</p>]]>
+    </line>
+    <line>
+      <![CDATA[Mouse Moved]]>
+    </line>
+    <line>
+      <![CDATA[<p><font color="green">Method drivers.TestShoppingSite_hoverOverDresses   PASSED</p>]]>
+    </line>
+    <line>
+      <![CDATA[Summer Dresses Clicked]]>
+    </line>
+    <line>
+      <![CDATA[<p><font color="green">Method drivers.TestShoppingSite_ClickSummerDresses   PASSED</p>]]>
+    </line>
+    <line>
+      <![CDATA[Menu Items Are Same]]>
+    </line>
+    <line>
+      <![CDATA[<p><font color="green">Method drivers.TestShoppingSite_verifyMenuBars   PASSED</p>]]>
+    </line>
+    <line>
+      <![CDATA[SignOut Is not yet displayed]]>
+    </line>
+    <line>
+      <![CDATA[<p><font color="green">Method drivers.TestShoppingSite_verifySignOutLink   PASSED</p>]]>
+    </line>
+    <line>
+      <![CDATA[List View Clicked]]>
+    </line>
+    <line>
+      <![CDATA[<p><font color="green">Method drivers.TestShoppingSite_getListView   PASSED</p>]]>
+    </line>
+    <line>
+      <![CDATA[Compare Value Before :0]]>
+    </line>
+    <line>
+      <![CDATA[Checked for before value as 0]]>
+    </line>
+    <line>
+      <![CDATA[1th item added to cart]]>
+    </line>
+    <line>
+      <![CDATA[2th item added to cart]]>
+    </line>
+    <line>
+      <![CDATA[3th item added to cart]]>
+    </line>
+    <line>
+      <![CDATA[Compare Value After :3]]>
+    </line>
+    <line>
+      <![CDATA[Checked for after value as 3]]>
+    </line>
+    <line>
+      <![CDATA[<p><font color="green">Method drivers.TestShoppingSite_verifyCompareCount   PASSED</p>]]>
+    </line>
+    <line>
+      <![CDATA[Product with highest amount clicked]]>
+    </line>
+    <line>
+      <![CDATA[<p><font color="green">Method drivers.TestShoppingSite_clickProdWithHighestPrice   PASSED</p>]]>
+    </line>
+    <line>
+      <![CDATA[Add to cart popup is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Product Details are same]]>
+    </line>
+    <line>
+      <![CDATA[Product price are same]]>
+    </line>
+    <line>
+      <![CDATA[<p><font color="green">Method drivers.TestShoppingSite_addToCart   PASSED</p>]]>
+    </line>
+    <line>
+      <![CDATA[Proceeded from add to cart page]]>
+    </line>
+    <line>
+      <![CDATA[<p><font color="green">Method drivers.TestShoppingSite_clickProceedToCart   PASSED</p>]]>
+    </line>
+    <line>
+      <![CDATA[<p><font color="green">Method drivers.TestShoppingSite_verifyCartNumber   PASSED</p>]]>
+    </line>
+    <line>
+      <![CDATA[Proceeded from cart summary page]]>
+    </line>
+    <line>
+      <![CDATA[<p><font color="green">Method drivers.TestShoppingSite_proceedToCheckout   PASSED</p>]]>
+    </line>
+    <line>
+      <![CDATA[Username Entered]]>
+    </line>
+    <line>
+      <![CDATA[Password Entered]]>
+    </line>
+    <line>
+      <![CDATA[Log In Button Clicked]]>
+    </line>
+    <line>
+      <![CDATA[User Logged In Successfully]]>
+    </line>
+    <line>
+      <![CDATA[<p><font color="green">Method drivers.TestShoppingSite_loginUser   PASSED</p>]]>
+    </line>
+    <line>
+      <![CDATA[Proceeded from address page]]>
+    </line>
+    <line>
+      <![CDATA[<p><font color="green">Method drivers.TestShoppingSite_checkLogoutButtonAndProceed   PASSED</p>]]>
+    </line>
+    <line>
+      <![CDATA[Popup is shown ]]>
+    </line>
+    <line>
+      <![CDATA[Popup is dismissed ]]>
+    </line>
+    <line>
+      <![CDATA[<p><font color="green">Method drivers.TestShoppingSite_proceedAndPopupCheck   PASSED</p>]]>
+    </line>
+    <line>
+      <![CDATA[Checkbox Is Not Selected]]>
+    </line>
+    <line>
+      <![CDATA[<p><font color="green">Method drivers.TestShoppingSite_verifyCheckbox   PASSED</p>]]>
+    </line>
+    <line>
+      <![CDATA[TermsOfService is now checked ]]>
+    </line>
+    <line>
+      <![CDATA[Proceeded to Payments Page ]]>
+    </line>
+    <line>
+      <![CDATA[<p><font color="green">Method drivers.TestShoppingSite_checkTOsAndProceed   PASSED</p>]]>
+    </line>
+    <line>
+      <![CDATA[Same product details confirmed]]>
+    </line>
+    <line>
+      <![CDATA[Same product price confirmed]]>
+    </line>
+    <line>
+      <![CDATA[Same product size confirmed]]>
+    </line>
+    <line>
+      <![CDATA[<p><font color="green">Method drivers.TestShoppingSite_verifyDetails   PASSED</p>]]>
+    </line>
+    <line>
+      <![CDATA[<p><font color="green">Method drivers.TestShoppingSite_verifyPaymentDetails   PASSED</p>]]>
+    </line>
+    <line>
+      <![CDATA[Payment Method Selected]]>
+    </line>
+    <line>
+      <![CDATA[Confirmed for the order]]>
+    </line>
+    <line>
+      <![CDATA[Order Successfully Placed]]>
+    </line>
+    <line>
+      <![CDATA[<p><font color="green">Method drivers.TestShoppingSite_proceedToPayment   PASSED</p>]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2020-03-19T15:42:51 IST" name="Suite" finished-at="2020-03-19T15:43:51 IST" duration-ms="60040">
+    <groups>
+    </groups>
+    <test started-at="2020-03-19T15:42:51 IST" name="Test" finished-at="2020-03-19T15:43:51 IST" duration-ms="60040">
+      <class name="drivers.TestShoppingSite">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:42:51 IST" name="beforeSuite" finished-at="2020-03-19T15:42:51 IST" duration-ms="192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="openChrome()[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:42:51 IST" name="openChrome" finished-at="2020-03-19T15:43:02 IST" duration-ms="10139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openChrome -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:02 IST" name="beforeMethod" finished-at="2020-03-19T15:43:02 IST" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void drivers.TestShoppingSite.openHomepage() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="initElem()[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:02 IST" name="initElem" finished-at="2020-03-19T15:43:02 IST" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initElem -->
+        <test-method signature="openHomepage()[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:02 IST" name="openHomepage" description="Opens The Homepage and verifies the title" finished-at="2020-03-19T15:43:14 IST" duration-ms="12036" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Site Opened]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openHomepage -->
+        <test-method is-config="true" signature="PublishSnapShots(org.testng.ITestResult)[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:14 IST" name="PublishSnapShots" finished-at="2020-03-19T15:43:14 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=openHomepage status=SUCCESS method=TestShoppingSite.openHomepage()[pri:0, instance:drivers.TestShoppingSite@318ba8c8] output=Site Opened]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<p><font color="green">Method drivers.TestShoppingSite_openHomepage   PASSED</p>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- PublishSnapShots -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:14 IST" name="beforeMethod" finished-at="2020-03-19T15:43:14 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void drivers.TestShoppingSite.verifyEmptyCart()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="initElem()[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:14 IST" name="initElem" finished-at="2020-03-19T15:43:14 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initElem -->
+        <test-method signature="verifyEmptyCart()[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:14 IST" name="verifyEmptyCart" description="Veifies if the cart shows Empty Status" finished-at="2020-03-19T15:43:14 IST" depends-on-methods="drivers.TestShoppingSite.openHomepage" duration-ms="56" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Cart Shows Empty]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyEmptyCart -->
+        <test-method is-config="true" signature="PublishSnapShots(org.testng.ITestResult)[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:14 IST" name="PublishSnapShots" finished-at="2020-03-19T15:43:14 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyEmptyCart status=SUCCESS method=TestShoppingSite.verifyEmptyCart()[pri:0, instance:drivers.TestShoppingSite@318ba8c8] output=Cart Shows Empty]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<p><font color="green">Method drivers.TestShoppingSite_verifyEmptyCart   PASSED</p>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- PublishSnapShots -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:14 IST" name="beforeMethod" finished-at="2020-03-19T15:43:14 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void drivers.TestShoppingSite.verifyMenuLinks()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="initElem()[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:14 IST" name="initElem" finished-at="2020-03-19T15:43:14 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initElem -->
+        <test-method signature="verifyMenuLinks()[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:14 IST" name="verifyMenuLinks" description="Verifies Menu Limks" finished-at="2020-03-19T15:43:14 IST" depends-on-methods="drivers.TestShoppingSite.openHomepage" duration-ms="184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMenuLinks -->
+        <test-method is-config="true" signature="PublishSnapShots(org.testng.ITestResult)[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:14 IST" name="PublishSnapShots" finished-at="2020-03-19T15:43:14 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyMenuLinks status=SUCCESS method=TestShoppingSite.verifyMenuLinks()[pri:0, instance:drivers.TestShoppingSite@318ba8c8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<p><font color="green">Method drivers.TestShoppingSite_verifyMenuLinks   PASSED</p>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- PublishSnapShots -->
+        <test-method is-config="true" signature="initElem()[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:14 IST" name="initElem" finished-at="2020-03-19T15:43:14 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initElem -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:14 IST" name="beforeMethod" finished-at="2020-03-19T15:43:14 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void drivers.TestShoppingSite.verifyPageLogo()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyPageLogo()[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:14 IST" name="verifyPageLogo" description="Verifies the page logo is displayed or not" finished-at="2020-03-19T15:43:14 IST" depends-on-methods="drivers.TestShoppingSite.openHomepage" duration-ms="56" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Homepage Logo Is Displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyPageLogo -->
+        <test-method is-config="true" signature="PublishSnapShots(org.testng.ITestResult)[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:14 IST" name="PublishSnapShots" finished-at="2020-03-19T15:43:14 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyPageLogo status=SUCCESS method=TestShoppingSite.verifyPageLogo()[pri:0, instance:drivers.TestShoppingSite@318ba8c8] output=Homepage Logo Is Displayed]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<p><font color="green">Method drivers.TestShoppingSite_verifyPageLogo   PASSED</p>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- PublishSnapShots -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:14 IST" name="beforeMethod" finished-at="2020-03-19T15:43:14 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void drivers.TestShoppingSite.verifyPhoneNumber()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="initElem()[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:14 IST" name="initElem" finished-at="2020-03-19T15:43:14 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initElem -->
+        <test-method signature="verifyPhoneNumber()[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:14 IST" name="verifyPhoneNumber" description="Verifies if the phone Number is displayed Correctly" finished-at="2020-03-19T15:43:14 IST" depends-on-methods="drivers.TestShoppingSite.openHomepage" duration-ms="31" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Phonenumbers are matching]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyPhoneNumber -->
+        <test-method is-config="true" signature="PublishSnapShots(org.testng.ITestResult)[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:14 IST" name="PublishSnapShots" finished-at="2020-03-19T15:43:14 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyPhoneNumber status=SUCCESS method=TestShoppingSite.verifyPhoneNumber()[pri:0, instance:drivers.TestShoppingSite@318ba8c8] output=Phonenumbers are matching]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<p><font color="green">Method drivers.TestShoppingSite_verifyPhoneNumber   PASSED</p>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- PublishSnapShots -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:14 IST" name="beforeMethod" finished-at="2020-03-19T15:43:14 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void drivers.TestShoppingSite.verifyPlaceHolderText()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="initElem()[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:14 IST" name="initElem" finished-at="2020-03-19T15:43:14 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initElem -->
+        <test-method signature="verifyPlaceHolderText()[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:14 IST" name="verifyPlaceHolderText" description="verifies if placehoder contans the text &quot;Search&quot;" finished-at="2020-03-19T15:43:14 IST" depends-on-methods="drivers.TestShoppingSite.openHomepage" duration-ms="36" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[PlaceHolder text Contains Search]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyPlaceHolderText -->
+        <test-method is-config="true" signature="PublishSnapShots(org.testng.ITestResult)[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:14 IST" name="PublishSnapShots" finished-at="2020-03-19T15:43:14 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyPlaceHolderText status=SUCCESS method=TestShoppingSite.verifyPlaceHolderText()[pri:0, instance:drivers.TestShoppingSite@318ba8c8] output=PlaceHolder text Contains Search]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<p><font color="green">Method drivers.TestShoppingSite_verifyPlaceHolderText   PASSED</p>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- PublishSnapShots -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:14 IST" name="beforeMethod" finished-at="2020-03-19T15:43:14 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void drivers.TestShoppingSite.verifySignInHover()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="initElem()[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:14 IST" name="initElem" finished-at="2020-03-19T15:43:14 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initElem -->
+        <test-method signature="verifySignInHover()[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:14 IST" name="verifySignInHover" description="Verifies SignInHoverText" finished-at="2020-03-19T15:43:14 IST" depends-on-methods="drivers.TestShoppingSite.openHomepage" duration-ms="33" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[SignIn hoverText are same as required]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifySignInHover -->
+        <test-method is-config="true" signature="PublishSnapShots(org.testng.ITestResult)[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:14 IST" name="PublishSnapShots" finished-at="2020-03-19T15:43:14 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifySignInHover status=SUCCESS method=TestShoppingSite.verifySignInHover()[pri:0, instance:drivers.TestShoppingSite@318ba8c8] output=SignIn hoverText are same as required]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<p><font color="green">Method drivers.TestShoppingSite_verifySignInHover   PASSED</p>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- PublishSnapShots -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:14 IST" name="beforeMethod" finished-at="2020-03-19T15:43:14 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void drivers.TestShoppingSite.hoverOverDresses() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="initElem()[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:14 IST" name="initElem" finished-at="2020-03-19T15:43:14 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initElem -->
+        <test-method signature="hoverOverDresses()[pri:1, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:14 IST" name="hoverOverDresses" description="Hovers On Dresses Menu Item" finished-at="2020-03-19T15:43:15 IST" duration-ms="1160" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Mouse Moved]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- hoverOverDresses -->
+        <test-method is-config="true" signature="PublishSnapShots(org.testng.ITestResult)[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:15 IST" name="PublishSnapShots" finished-at="2020-03-19T15:43:15 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=hoverOverDresses status=SUCCESS method=TestShoppingSite.hoverOverDresses()[pri:1, instance:drivers.TestShoppingSite@318ba8c8] output=Mouse Moved]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<p><font color="green">Method drivers.TestShoppingSite_hoverOverDresses   PASSED</p>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- PublishSnapShots -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:15 IST" name="beforeMethod" finished-at="2020-03-19T15:43:15 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void drivers.TestShoppingSite.ClickSummerDresses() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="initElem()[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:15 IST" name="initElem" finished-at="2020-03-19T15:43:15 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initElem -->
+        <test-method signature="ClickSummerDresses()[pri:2, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:15 IST" name="ClickSummerDresses" description="Clicks On Summer Dresses" finished-at="2020-03-19T15:43:19 IST" duration-ms="3679" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Summer Dresses Clicked]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ClickSummerDresses -->
+        <test-method is-config="true" signature="PublishSnapShots(org.testng.ITestResult)[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:19 IST" name="PublishSnapShots" finished-at="2020-03-19T15:43:19 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickSummerDresses status=SUCCESS method=TestShoppingSite.ClickSummerDresses()[pri:2, instance:drivers.TestShoppingSite@318ba8c8] output=Summer Dresses Clicked]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<p><font color="green">Method drivers.TestShoppingSite_ClickSummerDresses   PASSED</p>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- PublishSnapShots -->
+        <test-method is-config="true" signature="initElem()[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:19 IST" name="initElem" finished-at="2020-03-19T15:43:19 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initElem -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:19 IST" name="beforeMethod" finished-at="2020-03-19T15:43:19 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void drivers.TestShoppingSite.verifyMenuBars()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyMenuBars()[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:19 IST" name="verifyMenuBars" description="Compares the menu items" finished-at="2020-03-19T15:43:19 IST" depends-on-methods="drivers.TestShoppingSite.ClickSummerDresses" duration-ms="87" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Menu Items Are Same]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyMenuBars -->
+        <test-method is-config="true" signature="PublishSnapShots(org.testng.ITestResult)[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:19 IST" name="PublishSnapShots" finished-at="2020-03-19T15:43:19 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyMenuBars status=SUCCESS method=TestShoppingSite.verifyMenuBars()[pri:0, instance:drivers.TestShoppingSite@318ba8c8] output=Menu Items Are Same]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<p><font color="green">Method drivers.TestShoppingSite_verifyMenuBars   PASSED</p>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- PublishSnapShots -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:19 IST" name="beforeMethod" finished-at="2020-03-19T15:43:19 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void drivers.TestShoppingSite.verifySignOutLink()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="initElem()[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:19 IST" name="initElem" finished-at="2020-03-19T15:43:19 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initElem -->
+        <test-method signature="verifySignOutLink()[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:19 IST" name="verifySignOutLink" description="verifies if signout link is available" finished-at="2020-03-19T15:43:19 IST" depends-on-methods="drivers.TestShoppingSite.ClickSummerDresses" duration-ms="25" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[SignOut Is not yet displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifySignOutLink -->
+        <test-method is-config="true" signature="PublishSnapShots(org.testng.ITestResult)[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:19 IST" name="PublishSnapShots" finished-at="2020-03-19T15:43:19 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifySignOutLink status=SUCCESS method=TestShoppingSite.verifySignOutLink()[pri:0, instance:drivers.TestShoppingSite@318ba8c8] output=SignOut Is not yet displayed]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<p><font color="green">Method drivers.TestShoppingSite_verifySignOutLink   PASSED</p>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- PublishSnapShots -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:19 IST" name="beforeMethod" finished-at="2020-03-19T15:43:19 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void drivers.TestShoppingSite.getListView() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="initElem()[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:19 IST" name="initElem" finished-at="2020-03-19T15:43:19 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initElem -->
+        <test-method signature="getListView()[pri:3, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:19 IST" name="getListView" description="gets The ListView" finished-at="2020-03-19T15:43:20 IST" depends-on-methods="drivers.TestShoppingSite.ClickSummerDresses" duration-ms="1102" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[List View Clicked]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- getListView -->
+        <test-method is-config="true" signature="PublishSnapShots(org.testng.ITestResult)[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:20 IST" name="PublishSnapShots" finished-at="2020-03-19T15:43:20 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=getListView status=SUCCESS method=TestShoppingSite.getListView()[pri:3, instance:drivers.TestShoppingSite@318ba8c8] output=List View Clicked]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<p><font color="green">Method drivers.TestShoppingSite_getListView   PASSED</p>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- PublishSnapShots -->
+        <test-method is-config="true" signature="initElem()[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:20 IST" name="initElem" finished-at="2020-03-19T15:43:20 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initElem -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:20 IST" name="beforeMethod" finished-at="2020-03-19T15:43:20 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void drivers.TestShoppingSite.verifyCompareCount() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyCompareCount()[pri:4, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:20 IST" name="verifyCompareCount" description="verifies compare count" finished-at="2020-03-19T15:43:25 IST" depends-on-methods="drivers.TestShoppingSite.ClickSummerDresses" duration-ms="4327" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Compare Value Before :0]]>
+            </line>
+            <line>
+              <![CDATA[Checked for before value as 0]]>
+            </line>
+            <line>
+              <![CDATA[1th item added to cart]]>
+            </line>
+            <line>
+              <![CDATA[2th item added to cart]]>
+            </line>
+            <line>
+              <![CDATA[3th item added to cart]]>
+            </line>
+            <line>
+              <![CDATA[Compare Value After :3]]>
+            </line>
+            <line>
+              <![CDATA[Checked for after value as 3]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyCompareCount -->
+        <test-method is-config="true" signature="PublishSnapShots(org.testng.ITestResult)[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:25 IST" name="PublishSnapShots" finished-at="2020-03-19T15:43:25 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyCompareCount status=SUCCESS method=TestShoppingSite.verifyCompareCount()[pri:4, instance:drivers.TestShoppingSite@318ba8c8] output=Compare Value Before :0]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<p><font color="green">Method drivers.TestShoppingSite_verifyCompareCount   PASSED</p>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- PublishSnapShots -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:25 IST" name="beforeMethod" finished-at="2020-03-19T15:43:25 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void drivers.TestShoppingSite.clickProdWithHighestPrice() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="initElem()[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:25 IST" name="initElem" finished-at="2020-03-19T15:43:25 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initElem -->
+        <test-method signature="clickProdWithHighestPrice()[pri:5, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:25 IST" name="clickProdWithHighestPrice" description="Clicks On product with highest price" finished-at="2020-03-19T15:43:28 IST" duration-ms="3236" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Product with highest amount clicked]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- clickProdWithHighestPrice -->
+        <test-method is-config="true" signature="PublishSnapShots(org.testng.ITestResult)[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:28 IST" name="PublishSnapShots" finished-at="2020-03-19T15:43:28 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=clickProdWithHighestPrice status=SUCCESS method=TestShoppingSite.clickProdWithHighestPrice()[pri:5, instance:drivers.TestShoppingSite@318ba8c8] output=Product with highest amount clicked]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<p><font color="green">Method drivers.TestShoppingSite_clickProdWithHighestPrice   PASSED</p>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- PublishSnapShots -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:28 IST" name="beforeMethod" finished-at="2020-03-19T15:43:28 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void drivers.TestShoppingSite.addToCart() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="initElem()[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:28 IST" name="initElem" finished-at="2020-03-19T15:43:28 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initElem -->
+        <test-method signature="addToCart()[pri:6, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:28 IST" name="addToCart" description="Add to cart and store prod details and prices" finished-at="2020-03-19T15:43:30 IST" depends-on-methods="drivers.TestShoppingSite.clickProdWithHighestPrice" duration-ms="2465" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Add to cart popup is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Product Details are same]]>
+            </line>
+            <line>
+              <![CDATA[Product price are same]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method is-config="true" signature="PublishSnapShots(org.testng.ITestResult)[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:30 IST" name="PublishSnapShots" finished-at="2020-03-19T15:43:30 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addToCart status=SUCCESS method=TestShoppingSite.addToCart()[pri:6, instance:drivers.TestShoppingSite@318ba8c8] output=Add to cart popup is displayed]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<p><font color="green">Method drivers.TestShoppingSite_addToCart   PASSED</p>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- PublishSnapShots -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:30 IST" name="beforeMethod" finished-at="2020-03-19T15:43:30 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void drivers.TestShoppingSite.clickProceedToCart()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="initElem()[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:30 IST" name="initElem" finished-at="2020-03-19T15:43:30 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initElem -->
+        <test-method signature="clickProceedToCart()[pri:7, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:30 IST" name="clickProceedToCart" description="Proceeds to checkout from cart page" finished-at="2020-03-19T15:43:32 IST" depends-on-methods="drivers.TestShoppingSite.addToCart" duration-ms="1851" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Proceeded from add to cart page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- clickProceedToCart -->
+        <test-method is-config="true" signature="PublishSnapShots(org.testng.ITestResult)[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:32 IST" name="PublishSnapShots" finished-at="2020-03-19T15:43:32 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=clickProceedToCart status=SUCCESS method=TestShoppingSite.clickProceedToCart()[pri:7, instance:drivers.TestShoppingSite@318ba8c8] output=Proceeded from add to cart page]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<p><font color="green">Method drivers.TestShoppingSite_clickProceedToCart   PASSED</p>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- PublishSnapShots -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:32 IST" name="beforeMethod" finished-at="2020-03-19T15:43:32 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void drivers.TestShoppingSite.verifyCartNumber()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="initElem()[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:32 IST" name="initElem" finished-at="2020-03-19T15:43:32 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initElem -->
+        <test-method signature="verifyCartNumber()[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:32 IST" name="verifyCartNumber" description="Verifies presence of 1 product in Cart Logo" finished-at="2020-03-19T15:43:32 IST" depends-on-methods="drivers.TestShoppingSite.clickProceedToCart" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCartNumber -->
+        <test-method is-config="true" signature="PublishSnapShots(org.testng.ITestResult)[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:32 IST" name="PublishSnapShots" finished-at="2020-03-19T15:43:32 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyCartNumber status=SUCCESS method=TestShoppingSite.verifyCartNumber()[pri:0, instance:drivers.TestShoppingSite@318ba8c8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<p><font color="green">Method drivers.TestShoppingSite_verifyCartNumber   PASSED</p>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- PublishSnapShots -->
+        <test-method is-config="true" signature="initElem()[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:32 IST" name="initElem" finished-at="2020-03-19T15:43:32 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initElem -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:32 IST" name="beforeMethod" finished-at="2020-03-19T15:43:32 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void drivers.TestShoppingSite.proceedToCheckout()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="proceedToCheckout()[pri:8, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:32 IST" name="proceedToCheckout" description="Proceeds to checkout from cart summary page" finished-at="2020-03-19T15:43:35 IST" depends-on-methods="drivers.TestShoppingSite.verifyCartNumber" duration-ms="3150" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Proceeded from cart summary page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- proceedToCheckout -->
+        <test-method is-config="true" signature="PublishSnapShots(org.testng.ITestResult)[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:35 IST" name="PublishSnapShots" finished-at="2020-03-19T15:43:35 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=proceedToCheckout status=SUCCESS method=TestShoppingSite.proceedToCheckout()[pri:8, instance:drivers.TestShoppingSite@318ba8c8] output=Proceeded from cart summary page]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<p><font color="green">Method drivers.TestShoppingSite_proceedToCheckout   PASSED</p>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- PublishSnapShots -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:35 IST" name="beforeMethod" finished-at="2020-03-19T15:43:35 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void drivers.TestShoppingSite.loginUser() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="initElem()[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:35 IST" name="initElem" finished-at="2020-03-19T15:43:35 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initElem -->
+        <test-method signature="loginUser()[pri:9, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:35 IST" name="loginUser" description="Verifies that user logs in succesfully" finished-at="2020-03-19T15:43:39 IST" depends-on-methods="drivers.TestShoppingSite.proceedToCheckout" duration-ms="3612" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Username Entered]]>
+            </line>
+            <line>
+              <![CDATA[Password Entered]]>
+            </line>
+            <line>
+              <![CDATA[Log In Button Clicked]]>
+            </line>
+            <line>
+              <![CDATA[User Logged In Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginUser -->
+        <test-method is-config="true" signature="PublishSnapShots(org.testng.ITestResult)[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:39 IST" name="PublishSnapShots" finished-at="2020-03-19T15:43:39 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginUser status=SUCCESS method=TestShoppingSite.loginUser()[pri:9, instance:drivers.TestShoppingSite@318ba8c8] output=Username Entered]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<p><font color="green">Method drivers.TestShoppingSite_loginUser   PASSED</p>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- PublishSnapShots -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:39 IST" name="beforeMethod" finished-at="2020-03-19T15:43:39 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void drivers.TestShoppingSite.checkLogoutButtonAndProceed()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="initElem()[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:39 IST" name="initElem" finished-at="2020-03-19T15:43:39 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initElem -->
+        <test-method signature="checkLogoutButtonAndProceed()[pri:10, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:39 IST" name="checkLogoutButtonAndProceed" description="Checks that log out is available now and proceeds" finished-at="2020-03-19T15:43:40 IST" depends-on-methods="drivers.TestShoppingSite.loginUser" duration-ms="1439" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Proceeded from address page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkLogoutButtonAndProceed -->
+        <test-method is-config="true" signature="PublishSnapShots(org.testng.ITestResult)[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:40 IST" name="PublishSnapShots" finished-at="2020-03-19T15:43:40 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkLogoutButtonAndProceed status=SUCCESS method=TestShoppingSite.checkLogoutButtonAndProceed()[pri:10, instance:drivers.TestShoppingSite@318ba8c8] output=Proceeded from address page]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<p><font color="green">Method drivers.TestShoppingSite_checkLogoutButtonAndProceed   PASSED</p>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- PublishSnapShots -->
+        <test-method is-config="true" signature="initElem()[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:40 IST" name="initElem" finished-at="2020-03-19T15:43:40 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initElem -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:40 IST" name="beforeMethod" finished-at="2020-03-19T15:43:40 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void drivers.TestShoppingSite.proceedAndPopupCheck()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="proceedAndPopupCheck()[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:40 IST" name="proceedAndPopupCheck" description="tries to proceed and checks for popup" finished-at="2020-03-19T15:43:41 IST" depends-on-methods="drivers.TestShoppingSite.checkLogoutButtonAndProceed" duration-ms="464" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Popup is shown ]]>
+            </line>
+            <line>
+              <![CDATA[Popup is dismissed ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- proceedAndPopupCheck -->
+        <test-method is-config="true" signature="PublishSnapShots(org.testng.ITestResult)[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:41 IST" name="PublishSnapShots" finished-at="2020-03-19T15:43:41 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=proceedAndPopupCheck status=SUCCESS method=TestShoppingSite.proceedAndPopupCheck()[pri:0, instance:drivers.TestShoppingSite@318ba8c8] output=Popup is shown ]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<p><font color="green">Method drivers.TestShoppingSite_proceedAndPopupCheck   PASSED</p>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- PublishSnapShots -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:41 IST" name="beforeMethod" finished-at="2020-03-19T15:43:41 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void drivers.TestShoppingSite.verifyCheckbox()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="initElem()[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:41 IST" name="initElem" finished-at="2020-03-19T15:43:41 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initElem -->
+        <test-method signature="verifyCheckbox()[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:41 IST" name="verifyCheckbox" description="checks that checkbox is not selected" finished-at="2020-03-19T15:43:41 IST" depends-on-methods="drivers.TestShoppingSite.checkLogoutButtonAndProceed" duration-ms="42" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Checkbox Is Not Selected]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyCheckbox -->
+        <test-method is-config="true" signature="PublishSnapShots(org.testng.ITestResult)[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:41 IST" name="PublishSnapShots" finished-at="2020-03-19T15:43:41 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyCheckbox status=SUCCESS method=TestShoppingSite.verifyCheckbox()[pri:0, instance:drivers.TestShoppingSite@318ba8c8] output=Checkbox Is Not Selected]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<p><font color="green">Method drivers.TestShoppingSite_verifyCheckbox   PASSED</p>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- PublishSnapShots -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:41 IST" name="beforeMethod" finished-at="2020-03-19T15:43:41 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void drivers.TestShoppingSite.checkTOsAndProceed()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="initElem()[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:41 IST" name="initElem" finished-at="2020-03-19T15:43:41 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initElem -->
+        <test-method signature="checkTOsAndProceed()[pri:11, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:41 IST" name="checkTOsAndProceed" description="Checks the TOS and proceeds" finished-at="2020-03-19T15:43:43 IST" depends-on-methods="drivers.TestShoppingSite.verifyCheckbox" duration-ms="1885" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[TermsOfService is now checked ]]>
+            </line>
+            <line>
+              <![CDATA[Proceeded to Payments Page ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkTOsAndProceed -->
+        <test-method is-config="true" signature="PublishSnapShots(org.testng.ITestResult)[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:43 IST" name="PublishSnapShots" finished-at="2020-03-19T15:43:43 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkTOsAndProceed status=SUCCESS method=TestShoppingSite.checkTOsAndProceed()[pri:11, instance:drivers.TestShoppingSite@318ba8c8] output=TermsOfService is now checked ]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<p><font color="green">Method drivers.TestShoppingSite_checkTOsAndProceed   PASSED</p>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- PublishSnapShots -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:43 IST" name="beforeMethod" finished-at="2020-03-19T15:43:43 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void drivers.TestShoppingSite.verifyDetails() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="initElem()[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:43 IST" name="initElem" finished-at="2020-03-19T15:43:43 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initElem -->
+        <test-method signature="verifyDetails()[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:43 IST" name="verifyDetails" description="Verifies Product name, price and size selected" finished-at="2020-03-19T15:43:43 IST" depends-on-methods="drivers.TestShoppingSite.checkTOsAndProceed" duration-ms="97" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Same product details confirmed]]>
+            </line>
+            <line>
+              <![CDATA[Same product price confirmed]]>
+            </line>
+            <line>
+              <![CDATA[Same product size confirmed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyDetails -->
+        <test-method is-config="true" signature="PublishSnapShots(org.testng.ITestResult)[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:43 IST" name="PublishSnapShots" finished-at="2020-03-19T15:43:43 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyDetails status=SUCCESS method=TestShoppingSite.verifyDetails()[pri:0, instance:drivers.TestShoppingSite@318ba8c8] output=Same product details confirmed]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<p><font color="green">Method drivers.TestShoppingSite_verifyDetails   PASSED</p>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- PublishSnapShots -->
+        <test-method is-config="true" signature="initElem()[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:43 IST" name="initElem" finished-at="2020-03-19T15:43:43 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initElem -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:43 IST" name="beforeMethod" finished-at="2020-03-19T15:43:43 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void drivers.TestShoppingSite.verifyPaymentDetails() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyPaymentDetails()[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:43 IST" name="verifyPaymentDetails" description="Verifies Product name, price and size selected" finished-at="2020-03-19T15:43:43 IST" depends-on-methods="drivers.TestShoppingSite.checkTOsAndProceed" duration-ms="88" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPaymentDetails -->
+        <test-method is-config="true" signature="PublishSnapShots(org.testng.ITestResult)[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:43 IST" name="PublishSnapShots" finished-at="2020-03-19T15:43:43 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyPaymentDetails status=SUCCESS method=TestShoppingSite.verifyPaymentDetails()[pri:0, instance:drivers.TestShoppingSite@318ba8c8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<p><font color="green">Method drivers.TestShoppingSite_verifyPaymentDetails   PASSED</p>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- PublishSnapShots -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:43 IST" name="beforeMethod" finished-at="2020-03-19T15:43:43 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void drivers.TestShoppingSite.proceedToPayment() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="initElem()[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:43 IST" name="initElem" finished-at="2020-03-19T15:43:43 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initElem -->
+        <test-method signature="proceedToPayment()[pri:11, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:43 IST" name="proceedToPayment" description="Proceeds to Payment and Confirm" finished-at="2020-03-19T15:43:50 IST" depends-on-methods="drivers.TestShoppingSite.verifyPaymentDetails" duration-ms="7513" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Payment Method Selected]]>
+            </line>
+            <line>
+              <![CDATA[Confirmed for the order]]>
+            </line>
+            <line>
+              <![CDATA[Order Successfully Placed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- proceedToPayment -->
+        <test-method is-config="true" signature="PublishSnapShots(org.testng.ITestResult)[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:50 IST" name="PublishSnapShots" finished-at="2020-03-19T15:43:50 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=proceedToPayment status=SUCCESS method=TestShoppingSite.proceedToPayment()[pri:11, instance:drivers.TestShoppingSite@318ba8c8] output=Payment Method Selected]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<p><font color="green">Method drivers.TestShoppingSite_proceedToPayment   PASSED</p>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- PublishSnapShots -->
+        <test-method is-config="true" signature="closeChrome()[pri:0, instance:drivers.TestShoppingSite@318ba8c8]" started-at="2020-03-19T15:43:50 IST" name="closeChrome" finished-at="2020-03-19T15:43:51 IST" duration-ms="1028" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeChrome -->
+      </class> <!-- drivers.TestShoppingSite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
